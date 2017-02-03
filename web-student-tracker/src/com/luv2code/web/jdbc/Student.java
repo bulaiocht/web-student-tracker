@@ -1,4 +1,4 @@
-package com.luv2cod.web.jdbc;
+package com.luv2code.web.jdbc;
 
 public class Student {
 	private int id;
